@@ -7,9 +7,6 @@ if(num == 0) or (num==1) or (num==2):
     print(num)
 else:
     while(True):
-        
-        if((num==0) or (num==1) or (num==2)):
-            break
         if(ans**2 >= num):
             if((ans-1)**2 < num):
                 break
